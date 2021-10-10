@@ -1,0 +1,14 @@
+{
+  "name": "starting-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Siti Aisyah",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
